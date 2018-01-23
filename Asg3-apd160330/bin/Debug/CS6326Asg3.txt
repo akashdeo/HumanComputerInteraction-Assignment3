@@ -1,0 +1,9 @@
+maximum entry time:59
+minimum entry time:40
+average entry time:45.7
+no of records:10
+maximum inter-record time:3
+minimum inter-record time:4
+average inter-reord time:3.7
+total	time: 8:0
+Backspace Count29
